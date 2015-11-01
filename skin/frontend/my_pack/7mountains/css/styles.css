@@ -3022,7 +3022,6 @@ form .form-instructions {
     display: block;
   }
 }
-
 @media only screen and (max-width: 599px) {
   .linearize-table-large {
     /* Helpers */
